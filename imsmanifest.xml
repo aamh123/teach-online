@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_628cExmIJtj" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How To Teach Online</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_To_Teach_Online_ORG">
+    <organization identifier="How_To_Teach_Online_ORG">
+      <title>How To Teach Online</title>
+      <item identifier="How_To_Teach_Online_SCO" isvisible="true" identifierref="__628cExmIJtj_RES">
+        <title>How To Teach Online</title>
+        <adlcp:masteryscore>65</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__628cExmIJtj_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5uBlkl776aC_80_DX1252_DY1252_CX626_CY626.jpg" />
+      <file href="mobile/62wRf6FnUuq_80_DX450_DY450_CX128_CY128.jpg" />
+      <file href="mobile/6WJyIUHNyah_80_B40_RFFA800_DX140_DY140_CX105_CY105.png" />
+      <file href="mobile/5bosUBjLPzy_80_DX1522_DY1522_CX1141_CY748.jpg" />
+      <file href="mobile/5tRRs4Iu5A9_80_DX960_DY960_CX720_CY480.jpg" />
+      <file href="mobile/6lQGT57qSaD_80_P_0_0_2000_1335_DX960_DY960_CX719_CY480.jpg" />
+      <file href="mobile/6bFGLVUmLCL_80_RFFFFFF_P_304_0_207_256_DX274_DY274_CX84_CY103.png" />
+      <file href="mobile/6bFGLVUmLCL_80_RFFFFFF_P_0_256_215_256_DX274_DY274_CX87_CY103.png" />
+      <file href="mobile/5zaRyZ72cC3_80_B30_C40_R9D9D9D_DX716_DY716_CX512_CY512.png" />
+      <file href="mobile/6GRC54JNl9q_80_B20_C40_RD27D00_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/5p7dmBU3qgU_80_B20_C40_RD27D00_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/6K695QRwSvn_80_B20_C40_RD27D00_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/6jjq0xv1HuQ_80_B20_C40_RD27D00_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/6coAXA65jI2_80_B20_C40_RD27D00_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/6am0kS76l9s_80_B40_C40_R9D9D9D_DX1722_DY1722_CX1291_CY781.png" />
+      <file href="mobile/62E1ruwVK26_80_DX1830_DY1830_CX1371_CY397.png" />
+      <file href="mobile/6iSqsUUU50p_80_DX1804_DY1804_CX1353_CY807.png" />
+      <file href="mobile/5mA16NOZBME_80_DX1336_DY1336_CX1002_CY591.png" />
+      <file href="mobile/6a1XPzwOQ5J_80_DX864_DY864_CX646_CY355.png" />
+      <file href="mobile/63ysOqK19fi_80_DX1696_DY1696_CX1270_CY703.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape65MQEWiuUSS.png" />
+      <file href="mobile/Shape60aWhhfn4fN.png" />
+      <file href="mobile/Shape6P2wYmisGrr.png" />
+      <file href="mobile/txt__default_6oWC1arrnCk.png" />
+      <file href="mobile/txt__default_6rLRTPpZm3C.png" />
+      <file href="mobile/txt__default_5thlicQaO1R.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bgXTKpkXDa.js" />
+      <file href="html5/data/js/5epxqubdXVf.js" />
+      <file href="html5/data/js/5x9NGIV81Rx.js" />
+      <file href="html5/data/js/5zBiaJK40g2.js" />
+      <file href="html5/data/js/6csA9uwqSns.js" />
+      <file href="html5/data/js/6dmd2JA78cR.js" />
+      <file href="html5/data/js/6EIOLcy4GAJ.js" />
+      <file href="html5/data/js/6G7BfFQrYX3.js" />
+      <file href="html5/data/js/6l2EahziH67.js" />
+      <file href="html5/data/js/6n3JP4gHyUY.js" />
+      <file href="html5/data/js/6RDfAf5bANU.js" />
+      <file href="html5/data/js/6XlvZYzhDgo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
